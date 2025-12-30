@@ -1,6 +1,6 @@
 Name:		python-rackspace-novaclient
 Version:	2.1
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/r/rackspace-novaclient/rackspace-novaclient-%{version}.tar.gz
 Summary:	Metapackage to install python-novaclient and Rackspace extensions
 URL:		https://pypi.org/project/rackspace-novaclient/
